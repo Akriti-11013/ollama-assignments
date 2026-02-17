@@ -1,0 +1,6 @@
+venv/
+.env
+*
+!*.py
+!*.txt
+!.gitignore

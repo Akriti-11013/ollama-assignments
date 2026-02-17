@@ -1,0 +1,4 @@
+Retrieval Augmented Generation (RAG) enhances large language models by retrieving relevant documents before generating responses.
+Ollama allows running large language models locally on a user’s machine.
+LangChain is a framework used to build applications with LLMs.
+RAG helps reduce hallucinations by grounding answers in external knowledge sources.
